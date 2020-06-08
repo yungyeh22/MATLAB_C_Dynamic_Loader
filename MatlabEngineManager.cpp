@@ -108,7 +108,7 @@ bool MatlabEngineManager::showMatlabConsole() {
 #ifdef QT_DEBUG
         status = true;
 #else
-        stauts = false;
+        status = false;
 #endif
     }
     else {
